@@ -6,6 +6,7 @@ import Story from '../page/Story/story'
 import Center from '../page/Center/center'
 import News from '../page/News/news'
 import About from '../page/About/about'
+import Verify from '../page/Verify/verify'
 
 
 
@@ -25,6 +26,7 @@ export default new Router({
         {path:'center',name:'center',component:Center},
         {path:'news',name:'news',component:News},
         {path:'about',name:'about',component:About},
+        {path:'verify', name:'verify',component:Verify}
           ]
        },
     

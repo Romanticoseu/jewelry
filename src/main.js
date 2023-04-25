@@ -7,10 +7,11 @@ import VueRouter from 'vue-router'
 import VueAwesomeSwiper from 'vue-awesome-swiper'
 import VueResource from 'vue-resource'
 
-import VueSlideMini from 'vue-slide-mini'
-Vue.use(VueSlideMini)
+// import VueSlideMini from 'vue-slide-mini'
+// Vue.use(VueSlideMini)
 
 Vue.use(VueResource)
+
 
 
 

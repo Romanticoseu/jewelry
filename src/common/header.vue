@@ -1,12 +1,12 @@
 <template>
     <div class="container">
         <div class="header">
-            <h1>LOVE</h1>
+            <h1>希望玉雕坊</h1>
             
         </div>
         <div class="theme">
             <a href="/">
-                <p><span style="color:black;margin-left:40px;">RPLEX</span>.真爱珠宝</p>
+                <p><span style="color:black;margin-left:40px;">希望玉雕</span>.一心文玩</p>
             </a>
             
         </div>
@@ -28,7 +28,9 @@
                     <li class="nav-item">
                         <a href="#/about">联系我们</a>
                     </li>
-                   
+                   <li class="nav-item">
+                        <a href="#/verify">证书查验</a>
+                   </li>
                 </ul>
             </div>
            
@@ -80,7 +82,7 @@
      line-height: 100px;
     }
     .content-nav{
-        width: 600px;
+        width: 800px;
         margin: 0 auto;
        
     } 

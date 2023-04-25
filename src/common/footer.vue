@@ -5,16 +5,11 @@
                 <div class="polex">
                     <h4 class="heading do-ellipsis">
                         <p style="line-height:3;">
-                            <span style='font-family: "Microsoft YaHei", 微软雅黑, MicrosoftJhengHei, 华文细黑, STHeiti, MingLiu; font-size: 18px; color: rgb(51, 51, 51);'>关于POLEX</span>
+                            <span style='font-family: "Microsoft YaHei", 微软雅黑, MicrosoftJhengHei, 华文细黑, STHeiti, MingLiu; font-size: 18px; color: rgb(51, 51, 51);'>关于我们</span>
                         </p>
                         <p style="line-height:1.8;">
                             <a href="#/story">
-                                <span style='font-family: "Microsoft YaHei", 微软雅黑, MicrosoftJhengHei, 华文细黑, STHeiti, MingLiu; font-size: 14px; color: rgb(153, 153, 153);'>polex简介</span>
-                            </a>
-                        </p>
-                        <p style="line-height:1.8;">
-                            <a href="">
-                                <span style='font-family: "Microsoft YaHei", 微软雅黑, MicrosoftJhengHei, 华文细黑, STHeiti, MingLiu; font-size: 14px; color: rgb(153, 153, 153);'>polex文化</span>
+                                <span style='font-family: "Microsoft YaHei", 微软雅黑, MicrosoftJhengHei, 华文细黑, STHeiti, MingLiu; font-size: 14px; color: rgb(153, 153, 153);'>坊简介</span>
                             </a>
                         </p>
                         <p style="line-height:1.8;">
@@ -27,7 +22,7 @@
                 <div class="jewel">
                     <h4 class="heading do-ellipsis">
                         <p style="line-height:3;">
-                            <span style='font-family: "Microsoft YaHei", 微软雅黑, MicrosoftJhengHei, 华文细黑, STHeiti, MingLiu; font-size: 18px; color: rgb(51, 51, 51);'>推荐珠宝</span>
+                            <span style='font-family: "Microsoft YaHei", 微软雅黑, MicrosoftJhengHei, 华文细黑, STHeiti, MingLiu; font-size: 18px; color: rgb(51, 51, 51);'>推荐玉雕</span>
                         </p>
                         <p style="line-height:1.8;">
                             <a href="">
@@ -37,11 +32,6 @@
                         <p style="line-height:1.8;">
                             <a href="#/center">
                                 <span style='font-family: "Microsoft YaHei", 微软雅黑, MicrosoftJhengHei, 华文细黑, STHeiti, MingLiu; font-size: 14px; color: rgb(153, 153, 153);'>初夏</span>
-                            </a>
-                        </p>
-                        <p style="line-height:1.8;">
-                            <a href="">
-                                <span style='font-family: "Microsoft YaHei", 微软雅黑, MicrosoftJhengHei, 华文细黑, STHeiti, MingLiu; font-size: 14px; color: rgb(153, 153, 153);'>爱的旅程</span>
                             </a>
                         </p>
                     </h4>
@@ -97,11 +87,6 @@
                         </p>
                         <p style="line-height:1.6;">
                             <a href="">
-                                <span style='font-family: "Microsoft YaHei", 微软雅黑, MicrosoftJhengHei, 华文细黑, STHeiti, MingLiu; font-size: 14px; color: rgb(153, 153, 153);'>客服咨询热线：</span>
-                            </a>
-                        </p>
-                        <p style="line-height:1.6;">
-                            <a href="">
                                 <span style='font-family: "Microsoft YaHei", 微软雅黑, MicrosoftJhengHei, 华文细黑, STHeiti, MingLiu; font-size: 14px; color: red;'>010-000000</span>
                             </a>
                         </p>
@@ -130,7 +115,14 @@
             </div>
             <div class="html-bottom">
                 <p style="text-align: center;">
-                    <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(153, 153, 153);">© 2017 GUEEN JEWELLERY . All Rights Reserved .</span>
+                    <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(153, 153, 153);">© 2022 希望玉雕坊 . All Rights Reserved .</span>
+                </p>
+                <p style="text-align: center;">
+                    <a href="http://beian.miit.gov.cn/" style="text-decoration: none;">
+                        <img src="https://pic3.zhimg.com/80/v2-d0289dc0a46fc5b15b3363ffa78cf6c7.png" alt="">
+                        <span  style='font-family: "Microsoft YaHei", 微软雅黑, MicrosoftJhengHei, 华文细黑, STHeiti, MingLiu; font-size: 14px; color: rgb(153, 153, 153);'>晋ICP备2023009380号</span>
+                    </a>
+
                 </p>
             </div>
         </div>
